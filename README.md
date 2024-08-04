@@ -11,9 +11,8 @@ This project explores various techniques to enhance the convergence and performa
 
 ### Sample from the Experiments
 
-<p align="center">
-<img src="images/sgd_gd_momentum_distance.png" alt="Alt text" width="400"/>
-</p>
+![sgd_gd_momentum_distance](https://github.com/user-attachments/assets/9b0f2491-6feb-4f54-bd73-818def71dddd)
+
 
 ## Experiment: SGD with Momentum (SGDm) and Gradient Descent (GD)
 
