@@ -45,6 +45,5 @@ Overall, these methods significantly improve training efficiency and model perfo
 ## How to Use
 1. **Clone the Repository:**
    ```bash
-=======
    git clone https://github.com/DuaaAlshareef/SGD-Optimization-Algorithms.git
 
