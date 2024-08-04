@@ -1,10 +1,4 @@
-# SGD Optimization Experiments
 
-This project explores various techniques to enhance the convergence and performance of SGD in optimizing machine learning models. The experiments compare different variants of SGD and Gradient Descent (GD) to determine the most effective methods for achieving stable and accurate solutions.
-
-## Repository Structure
-- **Report:** The detailed report of our experiments is available.
-- **Code:** The code for running the experiments and generating the plots.
 
 
 ## Experiments
